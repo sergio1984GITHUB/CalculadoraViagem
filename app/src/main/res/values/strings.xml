@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora da tua Viagem</string>
+    <string name="distancia">Distancia</string>
+    <string name="total_de_quil_metros">Total de Quilômetros</string>
+    <string name="pre_o">Preço</string>
+    <string name="pre_o_pro_litro">Preço pro litro</string>
+    <string name="autonomia">Autonomia</string>
+    <string name="kms_por_litro">KMs por litro</string>
+    <string name="seu_gasto_total_ser_de">Seu gasto total será de:</string>
+    <string name="valor_total"> 0 EUR€</string>
+    <string name="calcular">Calcular</string>
+    <string name="preenche_todos_campos">Preenche todos os Campos!</string>
+    <string name="valores_validos">Por favor interduza valores válidos!</string>
+</resources>
